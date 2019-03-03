@@ -6,6 +6,7 @@
 - migration scripts.
 - seeding.
 - knex.
+  //test
 
 ## Assignment
 
